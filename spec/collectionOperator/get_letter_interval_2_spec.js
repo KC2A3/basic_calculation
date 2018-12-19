@@ -8,9 +8,9 @@ describe('get_letter_interval', function () {
     'y', 'z', 'aa', 'ab', 'ac', 'ad', 'ae', 'af', 'ag',
     'ah', 'ai', 'aj', 'ak', 'al', 'am', 'an', 'ao', 'ap',
     'aq', 'ar', 'as', 'at', 'au', 'av', 'aw', 'ax', 'ay',
-    'az', 'ba'
+    'bz', 'ba'
   ];
-  var collection_b = ['ba', 'az', 'ay', 'ax', 'aw', 'av', 'au', 'at',
+  var collection_b = ['ba', 'bz', 'ay', 'ax', 'aw', 'av', 'au', 'at',
     'as', 'ar', 'aq', 'ap', 'ao', 'an', 'am', 'al', 'ak', 'aj', 'ai',
     'ah', 'ag', 'af', 'ae', 'ad', 'ac', 'ab', 'aa', 'z', 'y', 'x',
     'w', 'v', 'u', 't'
